@@ -49,15 +49,22 @@ Registro do lead
 
 ### Workflow principal
 
-![Workflow do agente](https://bbileeuopjogpsrvhagu.supabase.co/storage/v1/object/public/foto%20dr%20lucas/img1.jfif)
+<p align="center">
+  <img src="https://bbileeuopjogpsrvhagu.supabase.co/storage/v1/object/public/foto%20dr%20lucas/img1.jfif" width="700" />
+</p>
 
 ### Conversa automatizada
 
-![Conversa WhatsApp](https://bbileeuopjogpsrvhagu.supabase.co/storage/v1/object/public/foto%20dr%20lucas/img2.jfif)
+<p align="center">
+  <img src="https://bbileeuopjogpsrvhagu.supabase.co/storage/v1/object/public/foto%20dr%20lucas/img2.jfif" width="700" />
+</p>
 
 ### Registro final do lead
 
-![Lead salvo](https://bbileeuopjogpsrvhagu.supabase.co/storage/v1/object/public/foto%20dr%20lucas/img3.png)
+<p align="center">
+  <img src="https://bbileeuopjogpsrvhagu.supabase.co/storage/v1/object/public/foto%20dr%20lucas/img3.png" width="700" />
+</p>
+
 
 ---
 
