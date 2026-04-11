@@ -114,7 +114,7 @@ O agente tem acesso direto ao Google Calendar através de ferramentas MCP, poden
 
 O workflow completo está disponível para importação no n8n:
 
-👉 [Download do workflow (.json)](https://raw.githubusercontent.com/alexandredosantos/agente-ia-whatsapp-n8n/main/Agente_para_Advocacia_-_Alexandre.json)
+👉 [Download do workflow (.json)](https://raw.githubusercontent.com/alexandredosantos/agente-ia-whatsapp-n8n/main/Agente%20para%20Advocacia%20-%20Alexandre.json)
 
 > **Como importar:** Abra o n8n → Menu → Import from File → selecione o arquivo `.json`  
 > ⚠️ Você precisará configurar suas próprias credenciais: OpenAI, Redis, Supabase e Google Calendar.
