@@ -1,8 +1,8 @@
-# 🤖 Agente de Atendimento de IA no WhatsApp — Advocacia
+# 🤖 Agente de Atendimento de IA no WhatsApp - Advocacia
 
 **`n8n | WhatsApp | OpenAI | Redis | Supabase | Google Calendar | MCP`**
 
-Agente conversacional completo desenvolvido para escritórios de advocacia, integrando **atendimento inteligente via WhatsApp**, transcrição de áudio, memória de conversa e **agendamento automático no Google Calendar** — tudo sem intervenção humana.
+Agente conversacional completo desenvolvido para escritórios de advocacia, integrando **atendimento inteligente via WhatsApp**, transcrição de áudio, memória de conversa e **agendamento automático no Google Calendar** tudo sem intervenção humana.
 
 ---
 
@@ -133,7 +133,7 @@ O workflow completo está disponível para importação no n8n:
 
 ## 💡 Sobre o projeto
 
-Desenvolvido por **Alexandre dos Santos Bezerra** como solução real de automação para escritórios de advocacia. O agente substitui o primeiro atendimento receptivo, qualifica o cliente e já agenda a consulta — tudo dentro do WhatsApp, sem que o cliente precise acessar nenhum outro sistema.
+Desenvolvido por **Alexandre dos Santos Bezerra** como solução real de automação para escritórios de advocacia. O agente substitui o primeiro atendimento receptivo, qualifica o cliente e já agenda a consulta, tudo dentro do WhatsApp, sem que o cliente precise acessar nenhum outro sistema.
 
 📧 bezerraalexandre800@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-dos-santos-a9aa7b292/)  
